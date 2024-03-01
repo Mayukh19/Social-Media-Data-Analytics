@@ -2,7 +2,7 @@
 ![image](https://github.com/Mayukh19/Social-Media-Data-Analytics/assets/119560255/9932537e-40fb-4761-a1d9-c2001ccc443f)
 
 # Background
-A social media requires advisory firm support to manage rapid scaling. With over 500 million monthly active users and 100,000 daily content pieces, the platform faces challenges in handling vast unstructured data and maintaining a complex technology infrastructure.
+A social media company requires advisory firm support to manage rapid scaling. With over 500 million monthly active users and 100,000 daily content pieces, the platform faces challenges in handling vast unstructured data and maintaining a complex technology infrastructure.
 
 # Aim
 ✓ An audit of their big data practice.\
