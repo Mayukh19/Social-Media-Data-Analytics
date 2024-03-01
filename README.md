@@ -1,4 +1,4 @@
-# Social-Media-Data-Analytics
+![image](https://github.com/Mayukh19/Social-Media-Data-Analytics/assets/119560255/f20c6b21-a5ce-4583-ab17-d2f354512cfd)# Social-Media-Data-Analytics
 ![image](https://github.com/Mayukh19/Social-Media-Data-Analytics/assets/119560255/9932537e-40fb-4761-a1d9-c2001ccc443f)
 
 
@@ -24,7 +24,7 @@ A social media requires advisory firm support to manage rapid scaling. With over
 
 ![image](https://github.com/Mayukh19/Social-Media-Data-Analytics/assets/119560255/6535a2d2-17af-4933-a384-4553ee0adcd8)
 
-Top 5 categories:
+Top 5 categories:\
 ✓ Animal\
 ✓ Science\
 ✓ Healthy eating\
@@ -34,3 +34,4 @@ Top 5 categories:
 # Summary
 ✓ "Animal" and "Science" are the two most popular content category.\
 ✓ "Food" is a common theme as "Healthy eating" ranking the highest.\
+✓ Campaign and work with healthy eating brands can bring significant boost in user engagement.
