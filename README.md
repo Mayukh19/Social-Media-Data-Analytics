@@ -1,5 +1,4 @@
 # Social-Media-Data-Analytics
-![image](https://github.com/Mayukh19/Social-Media-Data-Analytics/assets/119560255/f20c6b21-a5ce-4583-ab17-d2f354512cfd)
 ![image](https://github.com/Mayukh19/Social-Media-Data-Analytics/assets/119560255/9932537e-40fb-4761-a1d9-c2001ccc443f)
 
 # Background
