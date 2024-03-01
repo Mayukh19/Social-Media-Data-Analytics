@@ -1,6 +1,6 @@
-![image](https://github.com/Mayukh19/Social-Media-Data-Analytics/assets/119560255/f20c6b21-a5ce-4583-ab17-d2f354512cfd)# Social-Media-Data-Analytics
+# Social-Media-Data-Analytics
+![image](https://github.com/Mayukh19/Social-Media-Data-Analytics/assets/119560255/f20c6b21-a5ce-4583-ab17-d2f354512cfd)
 ![image](https://github.com/Mayukh19/Social-Media-Data-Analytics/assets/119560255/9932537e-40fb-4761-a1d9-c2001ccc443f)
-
 
 # Background
 A social media requires advisory firm support to manage rapid scaling. With over 500 million monthly active users and 100,000 daily content pieces, the platform faces challenges in handling vast unstructured data and maintaining a complex technology infrastructure.
@@ -20,7 +20,7 @@ A social media requires advisory firm support to manage rapid scaling. With over
 
 ✓ 16 Unique categories.\
 ✓ 1897 Reactions to "Animal" post.\
-✓ May month with most post.\
+✓ May month with most post.
 
 ![image](https://github.com/Mayukh19/Social-Media-Data-Analytics/assets/119560255/6535a2d2-17af-4933-a384-4553ee0adcd8)
 
